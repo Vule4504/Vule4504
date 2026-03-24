@@ -1,6 +1,6 @@
-# <p align="center">Hi there, I'm Lê Tuấn Vũ 👋</p>
+<h1 align="center">Hi there, I'm Lê Tuấn Vũ 👋</h1>
 
-### <p align="center">👨‍💻 **Full-Stack Developer Trainee | Web Programming Student** 👨‍💻</p>
+<h3 align="center">👨‍💻 Full-Stack Developer Trainee | Web Programming Student 👨‍💻</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vule4504&label=Profile%20views&color=0e75b6&style=flat" alt="Vule4504" />
@@ -72,17 +72,20 @@ Với định hướng trở thành một Full-Stack Developer, tôi không ng�
 
 ---
 
----
-
 ### 🤝 Kết nối với tôi
 
 <p align="left">
   <a href="https://zalo.me/0353424109" target="_blank">
     <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=Zalo&logoColor=white" alt="Zalo" />
   </a> 
-  
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vule45044@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://vule4504.github.io/portfolio_website/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-WEBSITE-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
 
